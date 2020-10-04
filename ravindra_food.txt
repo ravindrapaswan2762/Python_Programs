@@ -1,0 +1,5 @@
+samosa
+eggroll
+maggy
+['2020-07-29 20:28:47.905010']:burger
+['2020-08-10 13:55:37.534559']:ravindra add food 145

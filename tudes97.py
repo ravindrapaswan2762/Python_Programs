@@ -1,0 +1,1 @@
+# some theory about, webdevelopment with pyton using flask, and django....#
